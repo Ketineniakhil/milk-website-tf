@@ -1,4 +1,4 @@
-***AWS S3 Static Website Deployment using Terraform**
+**AWS S3 Static Website Deployment using Terraform**
 
 **Overview**
 
@@ -50,7 +50,8 @@ Destroy Resources:
 terraform destroy -auto-approve
  ```
 
-**Troubleshooting**
+**Ouput image :**
+![image](https://github.com/user-attachments/assets/92e2f97b-8d1a-419c-91ca-0683f5474a12)
 
 **1. Access Denied Errors**
 
